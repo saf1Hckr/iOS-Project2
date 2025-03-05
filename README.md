@@ -1,8 +1,8 @@
-# Project 2 - WORDLE
+# Project 2 - WORDLE_TWO
 
 Submitted by: **_Mubashirul Islam_**
 
-**Wordle** is an interactive word puzzle game where players attempt to guess a hidden word within a limited number of attempts. Players input words, and the game provides feedback on letter placements, guiding them towards the correct answer. The game includes customizable settings such as word length, number of guesses, and different themes for added variety and challenge. They can also reset the game by clicking on reset button. 
+**WORDLE_TWO** is an interactive word puzzle game where players attempt to guess a hidden word within a limited number of attempts. Players input words, and the game provides feedback on letter placements, guiding them towards the correct answer. The game includes customizable settings such as word length, number of guesses, and different themes for added variety and challenge. They can also reset the game by clicking on reset button. 
 
 Time spent: **_2_** hours spent in total
 
